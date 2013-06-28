@@ -20,6 +20,7 @@
     + View
         + [Slim](https://github.com/slim-template/slim)
         + [Haml](https://github.com/haml/haml)
+        + [Cells](https://github.com/apotonick/cells)
     + Settings
         + [SettingsLogic](https://github.com/binarylogic/settingslogic)
         + [Dotenv](https://github.com/bkeepers/dotenv)
